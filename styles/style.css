@@ -197,4 +197,23 @@ ol{
 footer{
     background-image: url('../asset/image/footer-bg.png'),
     linear-gradient(90deg, rgba(2,1,18,1) 0%, rgba(3,3,9,1) 100%, rgba(5,10,11,0.54292343387471) 100%);;
+    color: white;
+}
+.fooot{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    justify-content: space-around;
+    padding: 100px 150px;
+}
+.foot-items{
+    font-size: 20px;
+}
+.foot-heading{
+    font-size: 25px;
+    margin-bottom: 10px;
+}
+.foot-footer{
+    text-align: center;
+    padding: 100px;
 }
