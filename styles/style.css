@@ -162,3 +162,30 @@ ol{
     border-right: 3px solid gray;
     padding-right: 15px 15px;
 }
+/* -------blog--------- */
+.blog-card-item{
+    width: 300px;
+    border-radius: 10px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 8px 15px;
+}
+.blog-img{
+    width: 100%;
+}
+.blog-card{
+    display: flex;
+    gap: 35px;
+}
+.blogs{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+.cards-text{
+    padding: 8px;
+}
+.blog-title{
+    text-align: center;
+}
+.blog{
+    margin: 40px;
+}
