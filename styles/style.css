@@ -127,11 +127,38 @@ ol{
     border: 1px solid white;
 }
 .service-bottom{
-    padding-right: 10px;
+    padding-right: 30px;
     border-right: 3px solid red;
 }
 .service-text-bottom{
     display: flex;
     align-items: center;
     justify-content: space-around;
+}
+.help-box{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: space-evenly;
+    background-color: red;
+    width: 70%;
+    padding: 20px;
+    border-radius: 15px;
+}
+.help{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: -70px;
+}
+.call-icon{
+    width: 120px;
+}
+.boxes-help{
+    color: white;
+}
+.text-border{
+    border-right: 3px solid gray;
+    padding-right: 15px 15px;
 }
