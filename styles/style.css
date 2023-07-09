@@ -38,4 +38,27 @@
     align-items:center;
     text-align: center;
 }
-
+.banner-heading{
+    font-size: 60px;
+    color: white;
+}
+.primary-text{
+    color: red;
+}
+.banner-description{
+    font-size: 25px;
+    margin: 15px 50px;
+    color: white;
+}
+.btn{
+    border: none;
+    padding: 10px 25px;
+    background-color: red;
+    color: white;
+    font-size: 25px;
+    border-radius: 3px;
+}
+#btn1{
+    background-color: white;
+    color: black;
+}
