@@ -62,3 +62,34 @@
     background-color: white;
     color: black;
 }
+/* ---------service-------- */
+.service{
+    display: flex;
+    height: 100vh;
+    color: white;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    background-image: url('../asset/image/footer-bg.png'),
+    linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(6,6,38,1) 100%, rgba(0,212,255,1) 100%);;
+}
+.box{
+    width: 250px;
+    height: 250px;
+    background-color: white;
+    color: black;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    border-radius: 5px;
+}
+.box img{
+    width: 100px;
+}
+.service-box{
+    display: flex;
+    gap: 10px;
+    margin: 10px 0px;
+}
